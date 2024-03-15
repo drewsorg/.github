@@ -4,12 +4,12 @@
 
 For reference, URLS are referenced three different ways:
 ```
-[[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) 
+[[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) 
 [[Root]](/profile/folder/text.md) 
 [[Relative]](./folder/text.md)
 ```
 
-[[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) 
+[[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) 
 [[Root]](/profile/folder/text.md) 
 [[Relative]](./folder/text.md)
 
