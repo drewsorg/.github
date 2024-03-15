@@ -15,62 +15,62 @@ For reference, URLS are referenced three different ways:
 
 <h2>Headers</h2>
 
-# [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-## [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-### [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-#### [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-##### [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-###### [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+# [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+## [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+### [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+#### [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+##### [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+###### [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
 <h2>Styled text</h2>
 
-**[[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md)** **[[Root]](/profile/folder/text.md)** **[[Relative]](./folder/text.md)**
+**[[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md)** **[[Root]](/profile/folder/text.md)** **[[Relative]](./folder/text.md)**
 
-__[[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md)__ __[[Root]](/profile/folder/text.md)__ __[[Relative]](./folder/text.md)__
+__[[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md)__ __[[Root]](/profile/folder/text.md)__ __[[Relative]](./folder/text.md)__
 
-~~[[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md)~~ ~~[[Root]](/profile/folder/text.md)~~ ~~[[Relative]](./folder/text.md)~~
+~~[[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md)~~ ~~[[Root]](/profile/folder/text.md)~~ ~~[[Relative]](./folder/text.md)~~
 
-<sub>[[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)</sub> <br/>
-<sup>[[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)</sup>
+<sub>[[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)</sub> <br/>
+<sup>[[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)</sup>
 
 <h2>Quoted text</h2>
 
-> [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+> [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
 
 <h2>Lists</h2>
 
-1. [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-2. [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+1. [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+2. [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
-- [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-- [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+- [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+- [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
-1. [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-   - [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-     - [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-2. [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+1. [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+   - [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+     - [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+2. [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
-- [x] [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-- [ ] [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-- [ ] [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+- [x] [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+- [ ] [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+- [ ] [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
 <h2>Alerts</h2>
 
 > [!NOTE]
-> [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+> [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
 > [!TIP]
-> [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+> [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
 > [!IMPORTANT]
-> [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+> [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
 > [!WARNING]
-> [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+> [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
 > [!CAUTION]
-> [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+> [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
 
 <h2>Images</h2>
 
@@ -100,6 +100,6 @@ Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
 
-[^1]: [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
-[^2]: [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md) <br />
-  [[Direct]](https://github.com/drewsorg/.github/blob/main/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+[^1]: [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
+[^2]: [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md) <br />
+  [[Direct]](https://github.com/drewsorg/.github/blob/main/profile/folder/text.md) [[Root]](/profile/folder/text.md) [[Relative]](./folder/text.md)
