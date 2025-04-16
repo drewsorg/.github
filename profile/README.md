@@ -1,1 +1,1 @@
-Demo organization. 
+Demo organization for testing. 
